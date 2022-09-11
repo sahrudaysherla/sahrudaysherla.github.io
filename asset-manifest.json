@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ca620847.chunk.css",
-    "main.js": "/static/js/main.770e1375.chunk.js",
-    "main.js.map": "/static/js/main.770e1375.chunk.js.map",
+    "main.js": "/static/js/main.bb0052a3.chunk.js",
+    "main.js.map": "/static/js/main.bb0052a3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0403a33d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0403a33d.js.map",
-    "static/js/2.0661a1eb.chunk.js": "/static/js/2.0661a1eb.chunk.js",
-    "static/js/2.0661a1eb.chunk.js.map": "/static/js/2.0661a1eb.chunk.js.map",
+    "static/js/2.f9c69777.chunk.js": "/static/js/2.f9c69777.chunk.js",
+    "static/js/2.f9c69777.chunk.js.map": "/static/js/2.f9c69777.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b18ec4aa607ffa892e4a222425aa2199.js": "/precache-manifest.b18ec4aa607ffa892e4a222425aa2199.js",
+    "precache-manifest.74fb277c4718d470096a1c7f784ce3a5.js": "/precache-manifest.74fb277c4718d470096a1c7f784ce3a5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca620847.chunk.css.map": "/static/css/main.ca620847.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -16,10 +16,10 @@
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.a633be2f.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
-    "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
+    "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.08409ea0.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.b3685be8.png",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
-    "static/media/data_science.svg": "/static/media/data_science.434d2b01.svg",
+    "static/media/data_science.svg": "/static/media/data_science.826d201f.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.7a9b2eb0.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.f65ee6f6.png",
@@ -38,6 +38,7 @@
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/mask.jpg": "/static/media/mask.85784e2f.jpg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.cd7077f7.png",
     "static/media/portfolio.gif": "/static/media/portfolio.6e7dc5ad.gif",
@@ -48,14 +49,16 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.7f0feeed.svg",
+    "static/media/tcs.png": "/static/media/tcs.f91ff3fa.png",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg",
     "static/media/undraw_Mobile_application_mr4r.svg": "/static/media/undraw_Mobile_application_mr4r.e5c4ba08.svg",
+    "static/media/undraw_cloud_hosting_7xb1.svg": "/static/media/undraw_cloud_hosting_7xb1.08409ea0.svg",
     "static/media/wharton.png": "/static/media/wharton.bc61f864.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0403a33d.js",
-    "static/js/2.0661a1eb.chunk.js",
+    "static/js/2.f9c69777.chunk.js",
     "static/css/main.ca620847.chunk.css",
-    "static/js/main.770e1375.chunk.js"
+    "static/js/main.bb0052a3.chunk.js"
   ]
 }
