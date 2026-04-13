@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca620847.chunk.css",
-    "main.js": "/static/js/main.9fddf0b1.chunk.js",
-    "main.js.map": "/static/js/main.9fddf0b1.chunk.js.map",
+    "main.css": "/static/css/main.3ac444a5.chunk.css",
+    "main.js": "/static/js/main.c918dfc2.chunk.js",
+    "main.js.map": "/static/js/main.c918dfc2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0403a33d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0403a33d.js.map",
-    "static/js/2.c822b25d.chunk.js": "/static/js/2.c822b25d.chunk.js",
-    "static/js/2.c822b25d.chunk.js.map": "/static/js/2.c822b25d.chunk.js.map",
+    "static/js/2.aa2bb014.chunk.js": "/static/js/2.aa2bb014.chunk.js",
+    "static/js/2.aa2bb014.chunk.js.map": "/static/js/2.aa2bb014.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f3ef3c315bc94439bd464e7d771e7302.js": "/precache-manifest.f3ef3c315bc94439bd464e7d771e7302.js",
+    "precache-manifest.d22ee7412b844348e6998e2ec8ed348d.js": "/precache-manifest.d22ee7412b844348e6998e2ec8ed348d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ca620847.chunk.css.map": "/static/css/main.ca620847.chunk.css.map",
+    "static/css/main.3ac444a5.chunk.css.map": "/static/css/main.3ac444a5.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/MU.png": "/static/media/MU.e5688298.png",
+    "static/media/TeslaLogo.png": "/static/media/TeslaLogo.880afbc1.png",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.a633be2f.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
@@ -46,8 +47,10 @@
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.f7964c6b.svg",
     "static/media/pwa.png": "/static/media/pwa.bd5f4148.png",
+    "static/media/rit_logo.jpg": "/static/media/rit_logo.d6720bd1.jpg",
     "static/media/ruday.jpg": "/static/media/ruday.6eafbb72.jpg",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
+    "static/media/sunbaseLogo.png": "/static/media/sunbaseLogo.c16c3377.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.7f0feeed.svg",
     "static/media/tcs.png": "/static/media/tcs.f91ff3fa.png",
@@ -58,8 +61,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0403a33d.js",
-    "static/js/2.c822b25d.chunk.js",
-    "static/css/main.ca620847.chunk.css",
-    "static/js/main.9fddf0b1.chunk.js"
+    "static/js/2.aa2bb014.chunk.js",
+    "static/css/main.3ac444a5.chunk.css",
+    "static/js/main.c918dfc2.chunk.js"
   ]
 }
